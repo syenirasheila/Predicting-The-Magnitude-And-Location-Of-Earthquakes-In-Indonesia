@@ -1,4 +1,4 @@
-# Prediction of Earthquakes in Indonesia Prophet Forecasting model
+# Prediction Of Earthquakes In Indonesia Using Prophet Forecasting Model
 
 ## ✨ About The Project
 
