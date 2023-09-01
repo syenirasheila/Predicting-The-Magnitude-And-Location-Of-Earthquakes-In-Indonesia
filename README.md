@@ -1,4 +1,5 @@
-# Predicting the Magnitude and Location of Earthquakes in Indonesia
+# Predicting The Magnitude And Location Of Earthquakes In Indonesia
+
 ## ✨ About The Project
 
 Indonesia is one of the countries where earthquakes often occur. This is because Indonesia is located in the Ring of Fire region, which is formed from the movement of tectonic plates under the earth's crust. Indonesia is also located between the meeting of 3 earth plates namely the Indo-Australian plate, the Pacific plate, and the Eurasian plate. Therefore, Indonesia has many volcanoes both active and inactive and as a result of the movement of these plates Indonesia often experiences eruptions from volcanoes to earthquakes. <br />
